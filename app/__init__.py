@@ -1,0 +1,1 @@
+"""ParkNova AI backend package."""
